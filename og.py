@@ -19,8 +19,9 @@ if args.endec == 'encode':
 			message += "\n"
 	print(message)
 elif args.endec == 'decode':
-	message = ''
+	message = ""
 	for x in args.input.split("\n"):
 		for i in x.split("   "):
-			print(i)
-			for j in i.split()
+			message += list(og_dict.keys())[list(og_dict.values()).index(i)]
+		message += "\n"
+	print(message)
