@@ -24,5 +24,7 @@ og_dict = {
     'w':"odoo gogs gogs", 
     'x':"gogs odoo odoo gogs", 
     'y':"gogs odoo gogs gogs", 
-    'z':"gogs gogs odoo odoo"
+    'z':"gogs gogs odoo odoo",
+    '.':'.',
+    ',':','
     }
