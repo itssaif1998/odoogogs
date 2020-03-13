@@ -26,5 +26,15 @@ og_dict = {
     'y':"gogs odoo gogs gogs", 
     'z':"gogs gogs odoo odoo",
     '.':'.',
-    ',':','
+    ',':',',
+    '1':'odoo gogs gogs gogs gogs',
+    '2':'odoo odoo gogs gogs gogs',
+    '3':'odoo odoo odoo gogs gogs',
+    '4':'odoo odoo odoo odoo gogs',
+    '5':'odoo odoo odoo odoo odoo',
+    '6':'gogs odoo odoo odoo odoo',
+    '7':'gogs gogs odoo odoo odoo',
+    '8':'gogs gogs gogs odoo odoo',
+    '9':'gogs gogs gogs gogs odoo',
+    '0':'gogs gogs gogs gogs gogs'
     }
